@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+/.vs/GreetingsConsoleApp/v15
+/.vs/GreetingsConsoleApp/v15/ipch/GREETINGSCONSOLEAPP-24da19a4
+*.ipch
+*.suo
+*.db
+*.opendb
+/.vs/GreetingsConsoleApp/v15
